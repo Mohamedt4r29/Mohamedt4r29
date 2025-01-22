@@ -8,7 +8,7 @@ I'm a passionate Electronics Engineer with a strong foundation in hardware syste
 
 - 🔧 Experienced in **DevOps**, **Data Analysis**, **Machine Learning** model development, and **PCB design**.  
 - 🌐 Fluent in Python, MATLAB, VHDL, and skilled in building **data pipelines**, **Power BI dashboards**, and integrating **machine learning** models with **electronic systems**.  
-- 🧠 Constantly exploring new technologies like **PyTorch**, **Scikit-learn**, **TensorFlow**, **edge computing** solutions, and **PCB design** tools.  
+- 🧠 Constantly exploring new technologies like **PyTorch**, **Scikit-learn**, **TensorFlow**, and **PCB design** tools.  
 
 I'm always open to collaboration and innovation—feel free to connect!  
 
@@ -20,14 +20,11 @@ I'm always open to collaboration and innovation—feel free to connect!
 - TensorFlow, PyTorch, Scikit-learn  
 
 #### **Data & Analysis**  
-- SQL, Power BI, Jupyter Notebook, Tableau  
+- SQL, Power BI, Jupyter Notebook  
 - DAX, ETL Pipelines, Data Integration  
 
 #### **DevOps & Automation**  
 - CI/CD, Git, Ansible, Jinja2  
-
-#### **Edge Computing**  
-- Embedded Systems, IoT, Real-time Data Processing  
 
 #### **PCB Design**  
 - Altium Designer, KiCad  
