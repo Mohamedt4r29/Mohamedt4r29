@@ -1,14 +1,14 @@
 # Hi, I'm Mohamed Abdelreheem 👋  
-**Engineer | Developer | Machine Learning Enthusiast**
+**Engineer | Developer | Machine Learning Enthusiast | Edge Computing Advocate**
 
 ---
 
 ### 🌟 About Me
-I'm a passionate Electronics Engineer with a strong foundation in hardware systems and a keen interest in solving real-world problems using **Machine Learning** and **Automation**. My journey has blended advanced electronics with computational techniques, allowing me to develop innovative solutions that optimize performance and efficiency.  
+I'm a passionate Electronics Engineer with a strong foundation in hardware systems and a keen interest in solving real-world problems using **Machine Learning**, **Edge Computing**, and **Automation**. My journey has blended advanced electronics with computational techniques, enabling me to develop innovative solutions that optimize performance, efficiency, and real-time decision-making in intelligent systems.
 
 - 🔧 Experienced in **DevOps**, **Data Analysis**, and **Machine Learning** model development.  
-- 🌐 Fluent in Python, MATLAB, VHDL, and skilled in building **data pipelines** and **Power BI dashboards**.  
-- 🧠 Constantly exploring new technologies like **PyTorch**, **Scikit-learn**, and **TensorFlow**.  
+- 🌐 Fluent in Python, MATLAB, VHDL, and skilled in building **data pipelines**, **Power BI dashboards**, and integrating **machine learning** models with **electronic systems**.  
+- 🧠 Constantly exploring new technologies like **PyTorch**, **Scikit-learn**, **TensorFlow**, and **edge computing** solutions to push the boundaries of intelligent, real-time applications.  
 
 I'm always open to collaboration and innovation—feel free to connect!  
 
@@ -25,6 +25,9 @@ I'm always open to collaboration and innovation—feel free to connect!
 
 #### **DevOps & Automation**  
 - CI/CD, Git, Ansible, Jinja2  
+
+#### **Edge Computing**  
+- Embedded Systems, IoT, Real-time Data Processing  
 
 #### **Languages**  
 - English: Proficient  
@@ -80,6 +83,7 @@ Graduation Date: May 2025
 - Git Essential Training: The Basics  
 - Fundamentals of Red Hat Enterprise Linux (edX)  
 - Programming Foundations: APIs, Web Services, Algorithms, and Data Structures  
+- **Machine Learning by Andrew Ng** (Coursera)  
 
 ---
 
@@ -88,5 +92,5 @@ Graduation Date: May 2025
 💼 **LinkedIn**: [linkedin.com/in/mohamed-tarek2](https://www.linkedin.com/in/mohamed-tarek2/)  
 🌐 **GitHub**: [github.com/Mohamedt4r29](https://github.com/Mohamedt4r29)  
 
----
+---  
 _"Turning ideas into solutions with technology."_ 🚀
