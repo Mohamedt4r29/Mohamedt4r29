@@ -1,14 +1,14 @@
 # Hi, I'm Mohamed Abdelreheem 👋  
-**Engineer | Developer | Machine Learning Enthusiast | Edge Computing Advocate**
+**Engineer | Developer | Machine Learning Enthusiast | Edge Computing Advocate | PCB Design Expert**
 
 ---
 
 ### 🌟 About Me
-I'm a passionate Electronics Engineer with a strong foundation in hardware systems and a keen interest in solving real-world problems using **Machine Learning**, **Edge Computing**, and **Automation**. My journey has blended advanced electronics with computational techniques, enabling me to develop innovative solutions that optimize performance, efficiency, and real-time decision-making in intelligent systems.
+I'm a passionate Electronics Engineer with a strong foundation in hardware systems and a keen interest in solving real-world problems using **Machine Learning**, **Edge Computing**, and **Automation**. My journey has blended advanced electronics with computational techniques, enabling me to develop innovative solutions that optimize performance, efficiency, and real-time decision-making in intelligent systems. I also have significant experience in **PCB design**, working with tools like **Altium Designer** and **KiCad** to create precise and effective circuit board layouts.
 
-- 🔧 Experienced in **DevOps**, **Data Analysis**, and **Machine Learning** model development.  
+- 🔧 Experienced in **DevOps**, **Data Analysis**, **Machine Learning** model development, and **PCB design**.  
 - 🌐 Fluent in Python, MATLAB, VHDL, and skilled in building **data pipelines**, **Power BI dashboards**, and integrating **machine learning** models with **electronic systems**.  
-- 🧠 Constantly exploring new technologies like **PyTorch**, **Scikit-learn**, **TensorFlow**, and **edge computing** solutions to push the boundaries of intelligent, real-time applications.  
+- 🧠 Constantly exploring new technologies like **PyTorch**, **Scikit-learn**, **TensorFlow**, **edge computing** solutions, and **PCB design** tools.  
 
 I'm always open to collaboration and innovation—feel free to connect!  
 
@@ -28,6 +28,9 @@ I'm always open to collaboration and innovation—feel free to connect!
 
 #### **Edge Computing**  
 - Embedded Systems, IoT, Real-time Data Processing  
+
+#### **PCB Design**  
+- Altium Designer, KiCad  
 
 #### **Languages**  
 - English: Proficient  
