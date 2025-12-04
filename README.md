@@ -90,9 +90,6 @@ I'm a passionate engineer working at the intersection of **hardware, embedded sy
   <img src="https://github-readme-stats-phi-five.vercel.app/api/top-langs/?username=Mohamedt4r29&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedt4r29&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
 
 ---
 
