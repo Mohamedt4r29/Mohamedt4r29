@@ -69,7 +69,6 @@ I'm a passionate engineer working at the intersection of **hardware, embedded sy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50"/>
 </p>
 
 ### Databases
